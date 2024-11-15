@@ -1,3 +1,2 @@
 #emoth例外
-DOMAIN-SUFFIX,emotn.com
-DOMAIN-SUFFIX,emotn.net
+IP-CIDR,36.151.194.79/32,no-resolve
