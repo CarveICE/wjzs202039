@@ -3,4 +3,4 @@ DOMAIN-SUFFIX,mkapi.keeflys.com
 DOMAIN-SUFFIX,keeflys.com
 DOMAIN-SUFFIX,mkapi.keeflys.com:80
 #sub2api例外
-DOMAIN-SUFFIX,ai.superdoor.top:443
+Match,ai.superdoor.top:443
